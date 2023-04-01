@@ -1,0 +1,37 @@
+body{
+   background-color: #ebebe0; 
+    color:#333333;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    font-family: verdana;
+    font-size: 14px;
+}
+h1{
+    color: red;
+}
+div{
+    background: #d9d9d9;
+    width: 1250px;
+    
+}
+.box{
+    
+    border-color: #f00000;
+    border-style: solid;
+    padding: 5px
+}
+a:hover{
+    color: red
+    
+}
+a{
+    color: #0033cc;
+}
+h2{
+    color: red;
+}
+oi{
+    list-style list-style-type:upper-roman;
+}
